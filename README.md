@@ -7,7 +7,7 @@ Aplikasi pencatatan penjualan toko sederhana dibuat dengan Laravel 7.
 ## Installasi
 ```
 git clone https://github.com/rafipriatna/FourA
-cd LaraPos
+cd Laravel_FourA
 composer install
 ```
 Buat database baru, lalu rename `.env.example` menjadi `.env`, lalu edit:
