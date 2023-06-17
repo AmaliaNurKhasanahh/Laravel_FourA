@@ -1,11 +1,8 @@
-# LaraPos
+# FourA
 [![Stable Laravel](https://poser.pugx.org/laravel/framework/v/stable.svg)](https://packagist.org/packages/laravel/framework)
 
 ## About
 Aplikasi pencatatan penjualan toko sederhana dibuat dengan Laravel 7.
-
-### Screenshot
-![Screenshot transaksi](transaksi.png)
 
 ## Installasi
 ```
