@@ -6,7 +6,7 @@ Aplikasi pencatatan penjualan toko sederhana dibuat dengan Laravel 7.
 
 ## Installasi
 ```
-git clone https://github.com/rafipriatna/FourA
+git clone https://github.com/AmaliaNurKhasanahh/Laravel_FourA.git
 cd Laravel_FourA
 composer install
 ```
